@@ -1,0 +1,32 @@
+name: Hunted
+main: com.hunted.Hunted
+author: Matty
+version: 1.0
+description: >
+             Hunted Plugin
+
+commands:
+  name:
+    description: Renames you
+  skin:
+    description: Re-skins you
+  fake:
+    description: Creates a fake player
+  glow:
+    description: Makes Player Glow
+  crouch:
+    description: Makes Player Crouch
+  nojump:
+    description: Stops Players Jumping
+  cleareffects:
+    description: Clears Jump Effect
+  removemeta:
+    description: Resets player metadata
+  setboard:
+    description: Sets the player scoreboard
+  boss:
+    description: Creates a boss bar
+  spiritsound:
+    description: Creates a boss bar
+
+permissions:
